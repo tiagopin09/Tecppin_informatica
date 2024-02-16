@@ -12,16 +12,20 @@ Tecppin será uma loja de informática onde fornecera ao cliente manutenção e 
 
 ### - Resquisitos Funcionais:
 
-        - Cadastro de Usuário
-        - Pesquisa de Produtos
-        - Listagem de Produtos
-        - Carrinho de Compras
-        - Finalização de Compra
-        - Acompanhamento de Pedido
-        - Sistema de Avaliação
-        - Gerenciamento de Conta
-        - Sistema de Recomendação
-        - Integração com Redes Sociais
+        - Registar usuario
+        - Resgistar vendedor
+        - Fazer login
+        - Cadatrar produto
+        - Pesquisar produto
+        - Visualizar produto
+        - Adicionar produto ao carrinho 
+        - Retirar produto do carrinho 
+        - Escolher forma de pagamento 
+        - Finalizar compra
+        - Cancelar compra 
+        - Emitir relatorio de vendas 
+        - Emitir relatorio de cliente 
+        - 
 
 ### - Resquisistos não funcionais:
 
