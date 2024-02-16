@@ -4,13 +4,13 @@
 
 Tecppin será uma loja de informática onde fornecera ao cliente manutenção e vendas de peças de computadores. Irá resolver o problema de vendas de peças pra o brasil em um todo.
 
-- Sistemas semelhantes:
+### - Sistemas semelhantes:
 
         - Terabaty
         - Kabum
         - Pichau
 
-- Resquisitos Funcionais:
+### - Resquisitos Funcionais:
 
         - Cadastro de Usuário
         - Pesquisa de Produtos
@@ -23,7 +23,7 @@ Tecppin será uma loja de informática onde fornecera ao cliente manutenção e 
         - Sistema de Recomendação
         - Integração com Redes Sociais
 
-- Resquisistos não funcionais:
+### - Resquisistos não funcionais:
 
         - Desempenho
         - Segurança
