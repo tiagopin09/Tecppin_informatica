@@ -2,7 +2,7 @@
 
 # Descrição:
 
-Tecppin sera uma loja de informática onde fornecera ao cliente manutenção e vendas de peças de computadores. Irá resolver o problemarde vendas de peças pra o brasil em um todo.
+Tecppin será uma loja de informática onde fornecera ao cliente manutenção e vendas de peças de computadores. Irá resolver o problema de vendas de peças pra o brasil em um todo.
 
 - Sistemas semelhantes:
 
