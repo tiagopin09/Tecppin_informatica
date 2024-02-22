@@ -1,4 +1,4 @@
-# TECPIIN INFORMÁTICA
+# TECPPIN INFORMÁTICA
 
 # Descrição:
 
