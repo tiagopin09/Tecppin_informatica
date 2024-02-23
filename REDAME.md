@@ -17,7 +17,7 @@ Tecppin será uma loja de informática onde fornecerá ao cliente manutenção e
         - Cadastrar usuário;
         - Cadastrar vendedor;
         - Fazer login;
-        - Efetuar Logof;
+        - Efetuar Logout;
         - Cadatrar produto;
         - Pesquisar produto;
         - Visualizar produto;
